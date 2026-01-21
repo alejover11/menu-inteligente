@@ -1,0 +1,64 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #1b5e20;
+  padding: 20px;
+}
+
+h1, h2 {
+  margin: 10px 0;
+  color: #a5d6a7;
+}
+
+section {
+  padding: 20px;
+  border-bottom: 1px solid #333;
+}
+
+.item {
+  margin: 10px 0;
+  padding: 10px;
+  border-bottom: 1px solid #333;
+  text-align: left;
+}
+
+.item button {
+  float: right;
+  background-color: #1b5e20;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.item button:hover {
+  background-color: #4caf50;
+}
+
+#pedido {
+  text-align: left;
+}
+
+#pedido ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#pedido p {
+  font-weight: bold;
+}
+
+#confirmar-pedido {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+}

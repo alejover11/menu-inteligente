@@ -1,0 +1,3512 @@
+[
+  {
+    "mes": "2025-10",
+    "producto": "Jamon Queso -",
+    "cantidad": 810
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Remontada -",
+    "cantidad": 684
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Hawaiana -",
+    "cantidad": 458
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Desgranado Pollo. - PAPAS",
+    "cantidad": 366
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Desgranado Mixto. - PAPAS",
+    "cantidad": 316
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Jamon Pollo -",
+    "cantidad": 237
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Desgranado Especial. - PAPAS",
+    "cantidad": 201
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Especial -",
+    "cantidad": 199
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Carnes -",
+    "cantidad": 189
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 188
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Brioche Angus. - HAMBURGUESA",
+    "cantidad": 185
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Miel Mostaza -",
+    "cantidad": 184
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Toscana -",
+    "cantidad": 173
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 161
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 161
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Pollo Funghi -",
+    "cantidad": 160
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Romana -",
+    "cantidad": 151
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Pepperoni -",
+    "cantidad": 146
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Brioche Angus. - COMBO",
+    "cantidad": 143
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Pizza Sweet Bacon. -",
+    "cantidad": 140
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Chuzopan Mixto. -",
+    "cantidad": 133
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Hamb. Sweet Bacon. - COMBO",
+    "cantidad": 115
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Chuzopan Pollo. -",
+    "cantidad": 111
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 97
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 89
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Chuzopan Especial. -",
+    "cantidad": 84
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Lasaña Bolognesa -",
+    "cantidad": 84
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Perro Costeño -",
+    "cantidad": 75
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Diletto -",
+    "cantidad": 74
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Vegetariana -",
+    "cantidad": 68
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Napolitana -",
+    "cantidad": 63
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Mexicana -",
+    "cantidad": 60
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Hamb. Sweet Bacon. - HAMBURGUESA",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Gaucha. - COMBO",
+    "cantidad": 56
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Lasaña Pollo Y Champiñones -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Suprema -",
+    "cantidad": 52
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Mistura -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Mielata -",
+    "cantidad": 48
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Benedetto -",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Costeña. - HAMBURGUESA",
+    "cantidad": 42
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Stracciatella -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Perro Escoces. -",
+    "cantidad": 39
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Desgranado Pollo. - BOLLO",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Caramellata -",
+    "cantidad": 34
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Choripan Argentino -",
+    "cantidad": 33
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Desgranado Mixto. - BOLLO",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Genovesa -",
+    "cantidad": 29
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Philadelphia. - COMBO",
+    "cantidad": 28
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Costeña. - COMBO",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Gardel. - COMBO",
+    "cantidad": 26
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Mayotrufa. - COMBO",
+    "cantidad": 23
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Philadelphia. - HAMBURGUESA",
+    "cantidad": 23
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Perro Americano -",
+    "cantidad": 22
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Americana -",
+    "cantidad": 19
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Doble Angus.. - HAMBURGUESA",
+    "cantidad": 19
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Gaucha. - HAMBURGUESA",
+    "cantidad": 19
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Mayotrufa. - HAMBURGUESA",
+    "cantidad": 16
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Doble Angus.. - COMBO",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Desgranado Especial. - BOLLO",
+    "cantidad": 11
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Gardel. - HAMBURGUESA",
+    "cantidad": 11
+  },
+  {
+    "mes": "2025-10",
+    "producto": "Perro De La Casa -",
+    "cantidad": 4
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Jamon Queso -",
+    "cantidad": 566
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Remontada -",
+    "cantidad": 554
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Hawaiana -",
+    "cantidad": 345
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Desgranado Mixto. - PAPAS",
+    "cantidad": 287
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Desgranado Pollo. - PAPAS",
+    "cantidad": 282
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Chuzopan Mixto. -",
+    "cantidad": 222
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 209
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Jamon Pollo -",
+    "cantidad": 184
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Pizza Sweet Bacon. -",
+    "cantidad": 151
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Pollo Funghi -",
+    "cantidad": 151
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Carnes -",
+    "cantidad": 150
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Toscana -",
+    "cantidad": 148
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 147
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Miel Mostaza -",
+    "cantidad": 147
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Chuzopan Pollo. -",
+    "cantidad": 129
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 128
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Desgranado Especial. - PAPAS",
+    "cantidad": 124
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Romana -",
+    "cantidad": 122
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 119
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Especial -",
+    "cantidad": 118
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Hamb. Sweet Bacon. - COMBO",
+    "cantidad": 109
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Pepperoni -",
+    "cantidad": 108
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Brioche Angus. - HAMBURGUESA",
+    "cantidad": 94
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Brioche Angus. - COMBO",
+    "cantidad": 86
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Diletto -",
+    "cantidad": 75
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 75
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 72
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Napolitana -",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Chuzopan Especial. -",
+    "cantidad": 64
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Mexicana -",
+    "cantidad": 61
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Hamb. Sweet Bacon. - HAMBURGUESA",
+    "cantidad": 60
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Vegetariana -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Perro Costeño -",
+    "cantidad": 54
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Perro Escoces. -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Benedetto -",
+    "cantidad": 52
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Philadelphia. - COMBO",
+    "cantidad": 49
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Mistura -",
+    "cantidad": 46
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Caramellata -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Stracciatella -",
+    "cantidad": 37
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Choripan Argentino -",
+    "cantidad": 36
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Desgranado Mixto. - BOLLO",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Mayotrufa. - COMBO",
+    "cantidad": 34
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Suprema -",
+    "cantidad": 34
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Costeña. - COMBO",
+    "cantidad": 32
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Genovesa -",
+    "cantidad": 31
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Gardel. - COMBO",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Perro Americano -",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Mielata -",
+    "cantidad": 25
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Philadelphia. - HAMBURGUESA",
+    "cantidad": 23
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Desgranado Pollo. - BOLLO",
+    "cantidad": 22
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Gardel. - HAMBURGUESA",
+    "cantidad": 21
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Gaucha. - COMBO",
+    "cantidad": 21
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Doble Angus.. - COMBO",
+    "cantidad": 19
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Costeña. - HAMBURGUESA",
+    "cantidad": 17
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Mayotrufa. - HAMBURGUESA",
+    "cantidad": 17
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Americana -",
+    "cantidad": 16
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Doble Angus.. - HAMBURGUESA",
+    "cantidad": 13
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Gaucha. - HAMBURGUESA",
+    "cantidad": 13
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Desgranado Especial. - BOLLO",
+    "cantidad": 8
+  },
+  {
+    "mes": "2025-09",
+    "producto": "Perro De La Casa -",
+    "cantidad": 8
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Remontada -",
+    "cantidad": 855
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 758
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Jamon Queso -",
+    "cantidad": 646
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 600
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Hawaiana -",
+    "cantidad": 561
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Desgranado Mixto. - PAPAS",
+    "cantidad": 327
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Desgranado Pollo. - PAPAS",
+    "cantidad": 301
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Jamon Pollo -",
+    "cantidad": 289
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 240
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Especial -",
+    "cantidad": 238
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Toscana -",
+    "cantidad": 227
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Pepperoni -",
+    "cantidad": 223
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Chuzopan Mixto. -",
+    "cantidad": 222
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Pollo Funghi -",
+    "cantidad": 220
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 210
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Carnes -",
+    "cantidad": 207
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Perro Costeño -",
+    "cantidad": 204
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Pizza Sweet Bacon. -",
+    "cantidad": 200
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Miel Mostaza -",
+    "cantidad": 192
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 189
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Romana -",
+    "cantidad": 156
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Brioche Angus. - COMBO",
+    "cantidad": 154
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Desgranado Especial. - PAPAS",
+    "cantidad": 152
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Chuzopan Pollo. -",
+    "cantidad": 151
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Brioche Angus. - HAMBURGUESA",
+    "cantidad": 133
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Hamb. Sweet Bacon. - COMBO",
+    "cantidad": 105
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 105
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Benedetto -",
+    "cantidad": 101
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Choripan Argentino -",
+    "cantidad": 100
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Mexicana -",
+    "cantidad": 99
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Diletto -",
+    "cantidad": 91
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Chuzopan Especial. -",
+    "cantidad": 81
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Stracciatella -",
+    "cantidad": 80
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Perro Escocés -",
+    "cantidad": 78
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Napolitana -",
+    "cantidad": 70
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Vegetariana -",
+    "cantidad": 70
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Caramellata -",
+    "cantidad": 69
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Suprema -",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Perro Americano -",
+    "cantidad": 62
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Americana -",
+    "cantidad": 56
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Hamb. Sweet Bacon. - HAMBURGUESA",
+    "cantidad": 56
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Genovesa -",
+    "cantidad": 50
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Philadelphia. - COMBO",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Mielata -",
+    "cantidad": 45
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Mistura -",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Desgranado Mixto. - BOLLO",
+    "cantidad": 42
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Desgranado Pollo. - BOLLO",
+    "cantidad": 36
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Mayotrufa. - COMBO",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Gaucha. - COMBO",
+    "cantidad": 25
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Perro De La Casa -",
+    "cantidad": 24
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Costeña. - HAMBURGUESA",
+    "cantidad": 23
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Costeña. - COMBO",
+    "cantidad": 22
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Gardel. - HAMBURGUESA",
+    "cantidad": 20
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Philadelphia. - HAMBURGUESA",
+    "cantidad": 20
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Doble Angus.. - COMBO",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Doble Angus.. - HAMBURGUESA",
+    "cantidad": 13
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Gardel. - COMBO",
+    "cantidad": 12
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Gaucha. - HAMBURGUESA",
+    "cantidad": 12
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Mayotrufa. - HAMBURGUESA",
+    "cantidad": 12
+  },
+  {
+    "mes": "2025-08",
+    "producto": "Desgranado Especial. - BOLLO",
+    "cantidad": 3
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Remontada -",
+    "cantidad": 682
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 605
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 551
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Jamon Queso -",
+    "cantidad": 436
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hawaiana -",
+    "cantidad": 385
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Brioche Angus - COMBO",
+    "cantidad": 374
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 319
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 268
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Pizza Sweet Bacon. -",
+    "cantidad": 261
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 246
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 219
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Toscana -",
+    "cantidad": 212
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Carnes -",
+    "cantidad": 206
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Brioche Angus - .",
+    "cantidad": 205
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Jamon Pollo -",
+    "cantidad": 205
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 200
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Especial -",
+    "cantidad": 195
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 186
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Miel Mostaza -",
+    "cantidad": 173
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Pollo Funghi -",
+    "cantidad": 168
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Romana -",
+    "cantidad": 157
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 155
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Pepperoni -",
+    "cantidad": 142
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 140
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Philadelphia - COMBO",
+    "cantidad": 136
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 131
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 106
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Perro Costeño -",
+    "cantidad": 96
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Perro Escocés -",
+    "cantidad": 95
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Diletto -",
+    "cantidad": 94
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Sweet Bacon - .",
+    "cantidad": 94
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Costeña - COMBO",
+    "cantidad": 84
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Mexicana -",
+    "cantidad": 72
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 67
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Vegetariana -",
+    "cantidad": 66
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Mayotrufa - COMBO",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Philadelphia - .",
+    "cantidad": 63
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Mistura -",
+    "cantidad": 63
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 58
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Gaucha - COMBO",
+    "cantidad": 58
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Napolitana -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Gardel - COMBO",
+    "cantidad": 56
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Suprema -",
+    "cantidad": 55
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Benedetto -",
+    "cantidad": 49
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Choripan Argentino -",
+    "cantidad": 42
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Perro Americano -",
+    "cantidad": 38
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Stracciatella -",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Genovesa -",
+    "cantidad": 34
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Caramellata -",
+    "cantidad": 33
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Mielata -",
+    "cantidad": 33
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Doble Angus. - COMBO",
+    "cantidad": 31
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Americana -",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Gardel - .",
+    "cantidad": 25
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Gaucha - .",
+    "cantidad": 25
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Costeña - .",
+    "cantidad": 23
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Mayotrufa - .",
+    "cantidad": 22
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Hamb Doble Angus. - HAMB",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 10
+  },
+  {
+    "mes": "2025-07",
+    "producto": "Perro De La Casa -",
+    "cantidad": 6
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 792
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Remontada -",
+    "cantidad": 775
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 626
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Jamon Queso -",
+    "cantidad": 409
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Hawaiana -",
+    "cantidad": 396
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 366
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 301
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Pizza Sweet Bacon. -",
+    "cantidad": 301
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 224
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Toscana -",
+    "cantidad": 224
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Jamon Pollo -",
+    "cantidad": 220
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Especial -",
+    "cantidad": 218
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 217
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 210
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Carnes -",
+    "cantidad": 201
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 193
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 192
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Miel Mostaza -",
+    "cantidad": 180
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Pollo Funghi -",
+    "cantidad": 176
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Romana -",
+    "cantidad": 151
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 133
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Pepperoni -",
+    "cantidad": 129
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Perro Costeño -",
+    "cantidad": 128
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 123
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 122
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 121
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 119
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Diletto -",
+    "cantidad": 112
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 110
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Perro Escocés -",
+    "cantidad": 96
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 89
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Mexicana -",
+    "cantidad": 73
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 68
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Benedetto -",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Napolitana -",
+    "cantidad": 62
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 59
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Vegetariana -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 56
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Suprema -",
+    "cantidad": 55
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Costeña - COMBO",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Mielata -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Genovesa -",
+    "cantidad": 45
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 44
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Gardel - COMBO",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Mistura -",
+    "cantidad": 42
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Caramellata -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Choripan Argentino -",
+    "cantidad": 39
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 34
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Perro Americano -",
+    "cantidad": 29
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Americana -",
+    "cantidad": 28
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Stracciatella -",
+    "cantidad": 28
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 24
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 19
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 9
+  },
+  {
+    "mes": "2025-06",
+    "producto": "Perro De La Casa -",
+    "cantidad": 3
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Remontada -",
+    "cantidad": 663
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 570
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 535
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Jamon Queso -",
+    "cantidad": 416
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hawaiana -",
+    "cantidad": 354
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 317
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 278
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 241
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Jamon Pollo -",
+    "cantidad": 216
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 208
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Brioche Angus - COMBO",
+    "cantidad": 206
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Toscana -",
+    "cantidad": 201
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Especial -",
+    "cantidad": 200
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Carnes -",
+    "cantidad": 196
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Pizza Sweet Bacon. -",
+    "cantidad": 192
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Pollo Funghi -",
+    "cantidad": 169
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Brioche Angus - .",
+    "cantidad": 155
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 150
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Miel Mostaza -",
+    "cantidad": 145
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 141
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 136
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Romana -",
+    "cantidad": 126
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Perro Costeño -",
+    "cantidad": 117
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Philadelphia - COMBO",
+    "cantidad": 113
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Pepperoni -",
+    "cantidad": 113
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 111
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 108
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 99
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 96
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Perro Escocés -",
+    "cantidad": 84
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Diletto -",
+    "cantidad": 78
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Sweet Bacon - .",
+    "cantidad": 69
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Mexicana -",
+    "cantidad": 62
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Napolitana -",
+    "cantidad": 58
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Benedetto -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Mistura -",
+    "cantidad": 55
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Choripan Argentino -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Vegetariana -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Costeña - COMBO",
+    "cantidad": 49
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 48
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Gaucha - COMBO",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Perro Americano -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 46
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Philadelphia - .",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Caramellata -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Mayotrufa - COMBO",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Stracciatella -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Suprema -",
+    "cantidad": 39
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Mielata -",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Gardel - COMBO",
+    "cantidad": 31
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Gardel - .",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Gaucha - .",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Costeña - .",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Americana -",
+    "cantidad": 24
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Genovesa -",
+    "cantidad": 22
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Hamb Mayotrufa - .",
+    "cantidad": 12
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Perro De La Casa -",
+    "cantidad": 8
+  },
+  {
+    "mes": "2025-05",
+    "producto": "Pistachosa . -",
+    "cantidad": 1
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Remontada -",
+    "cantidad": 678
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 606
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 518
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Jamon Queso -",
+    "cantidad": 411
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Hawaiana -",
+    "cantidad": 356
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 353
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 263
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 235
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 220
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 218
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Carnes -",
+    "cantidad": 212
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Jamon Pollo -",
+    "cantidad": 209
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 202
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Especial -",
+    "cantidad": 199
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Toscana -",
+    "cantidad": 197
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Pollo Funghi -",
+    "cantidad": 181
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 179
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Romana -",
+    "cantidad": 163
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Miel Mostaza -",
+    "cantidad": 162
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 158
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Perro Costeño -",
+    "cantidad": 154
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 149
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Pepperoni -",
+    "cantidad": 141
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 138
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 122
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 119
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 116
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Diletto -",
+    "cantidad": 104
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 85
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Perro Escoces. -",
+    "cantidad": 74
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 71
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 70
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Mistura -",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 64
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Choripan Argentino -",
+    "cantidad": 63
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Benedetto -",
+    "cantidad": 60
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Stracciatella -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Vegetariana -",
+    "cantidad": 54
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Caramellata -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Mexicana -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Mielata -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 50
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Suprema -",
+    "cantidad": 49
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 48
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Napolitana -",
+    "cantidad": 48
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Costeña - COMBO",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Perro Americano -",
+    "cantidad": 46
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Gardel - COMBO",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Genovesa -",
+    "cantidad": 29
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 28
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Americana -",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 20
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 9
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Perro De La Casa -",
+    "cantidad": 4
+  },
+  {
+    "mes": "2025-04",
+    "producto": "Pistachosa . -",
+    "cantidad": 2
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Remontada -",
+    "cantidad": 625
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 622
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 567
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Jamon Queso -",
+    "cantidad": 396
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Hawaiana -",
+    "cantidad": 344
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 285
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 249
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 238
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 227
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 218
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Toscana -",
+    "cantidad": 218
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Jamon Pollo -",
+    "cantidad": 217
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 193
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Carnes -",
+    "cantidad": 189
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Especial -",
+    "cantidad": 166
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 166
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Romana -",
+    "cantidad": 157
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Pollo Funghi -",
+    "cantidad": 155
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 152
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Miel Mostaza -",
+    "cantidad": 146
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 138
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Pepperoni -",
+    "cantidad": 119
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Perro Costeño -",
+    "cantidad": 118
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 113
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Diletto -",
+    "cantidad": 109
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Pollo Champiñon -",
+    "cantidad": 107
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 105
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Hawaiana Pollo Bbq -",
+    "cantidad": 94
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 92
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Perro Escocés -",
+    "cantidad": 88
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 82
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 79
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Mistura -",
+    "cantidad": 65
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 64
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Stracciatella -",
+    "cantidad": 62
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Benedetto -",
+    "cantidad": 60
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Caramellata -",
+    "cantidad": 52
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 52
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 50
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Vegetariana -",
+    "cantidad": 50
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Mexicana -",
+    "cantidad": 49
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Costeña - COMBO",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 45
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Choripan Argentino -",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Mielata -",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Napolitana -",
+    "cantidad": 39
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Gardel - COMBO",
+    "cantidad": 38
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Perro Americano -",
+    "cantidad": 37
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Suprema -",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 33
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 32
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 31
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Genovesa -",
+    "cantidad": 29
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Americana -",
+    "cantidad": 24
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 21
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Pistachosa . -",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 14
+  },
+  {
+    "mes": "2025-03",
+    "producto": "Perro De La Casa -",
+    "cantidad": 8
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Jamón Queso -",
+    "cantidad": 545
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 453
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 339
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 289
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Hawaiana -",
+    "cantidad": 256
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Remontada -",
+    "cantidad": 226
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Especial -",
+    "cantidad": 213
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Toscana -",
+    "cantidad": 177
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 160
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 139
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Carnes -",
+    "cantidad": 127
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 120
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 115
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Pollo Funghi -",
+    "cantidad": 110
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Pepperoni -",
+    "cantidad": 107
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Romana -",
+    "cantidad": 99
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 98
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 83
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Diletto -",
+    "cantidad": 82
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Stracciatella -",
+    "cantidad": 81
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Pollo Champiñón -",
+    "cantidad": 72
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 61
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Benedetto -",
+    "cantidad": 61
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Costeña - COMBO",
+    "cantidad": 58
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 55
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Perro Costeño -",
+    "cantidad": 55
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Mielata -",
+    "cantidad": 52
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Jamón Pollo -",
+    "cantidad": 52
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Mistura -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Genovesa -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Caramellata -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Mexicana -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Gardel - COMBO",
+    "cantidad": 46
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Suprema -",
+    "cantidad": 43
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Napolitana -",
+    "cantidad": 36
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 34
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Hawaiana Pollo Bbq -",
+    "cantidad": 32
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 29
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Vegetariana -",
+    "cantidad": 27
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Choripan Argentino -",
+    "cantidad": 25
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Americana -",
+    "cantidad": 24
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Pizza Pollo Miel Mostaza -",
+    "cantidad": 24
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 20
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 19
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 18
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Perro Escocés -",
+    "cantidad": 18
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Perro Americano -",
+    "cantidad": 17
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 15
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 12
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 10
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 7
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 6
+  },
+  {
+    "mes": "2025-02",
+    "producto": "Perro De La Casa -",
+    "cantidad": 3
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Jamón Queso -",
+    "cantidad": 773
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 579
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 463
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 407
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Hawaiana -",
+    "cantidad": 345
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Especial -",
+    "cantidad": 309
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Remontada -",
+    "cantidad": 268
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Toscana -",
+    "cantidad": 229
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 214
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 199
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Carnes -",
+    "cantidad": 179
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 150
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 137
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 136
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Pollo Funghi -",
+    "cantidad": 129
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Pepperoni -",
+    "cantidad": 126
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Diletto -",
+    "cantidad": 125
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 106
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Perro Costeño -",
+    "cantidad": 104
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Romana -",
+    "cantidad": 98
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Mexicana -",
+    "cantidad": 96
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 95
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Stracciatella -",
+    "cantidad": 95
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 92
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Benedetto -",
+    "cantidad": 90
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Mielata -",
+    "cantidad": 88
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Mistura -",
+    "cantidad": 88
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Costeña - COMBO",
+    "cantidad": 85
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Jamón Pollo -",
+    "cantidad": 80
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Pollo Champiñón -",
+    "cantidad": 80
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Suprema -",
+    "cantidad": 75
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Gardel - COMBO",
+    "cantidad": 74
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 61
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Hawaiana Pollo Bbq -",
+    "cantidad": 58
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Genovesa -",
+    "cantidad": 57
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Napolitana -",
+    "cantidad": 54
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Choripan Argentino -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 49
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Caramellata -",
+    "cantidad": 47
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Vegetariana -",
+    "cantidad": 46
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 42
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Pollo Miel Mostaza -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 35
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 33
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Perro Escocés -",
+    "cantidad": 30
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Pizza Americana -",
+    "cantidad": 29
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 28
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 26
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 26
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 25
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Perro Americano -",
+    "cantidad": 23
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 22
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Perro De La Casa -",
+    "cantidad": 18
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 14
+  },
+  {
+    "mes": "2025-01",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 8
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 661
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Jamón Queso -",
+    "cantidad": 657
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 527
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 505
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Hawaiana -",
+    "cantidad": 445
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Especial -",
+    "cantidad": 324
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Remontada -",
+    "cantidad": 297
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Toscana -",
+    "cantidad": 279
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 259
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Carnes -",
+    "cantidad": 221
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 219
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Pollo Funghi -",
+    "cantidad": 179
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 168
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Pepperoni -",
+    "cantidad": 151
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 135
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Romana -",
+    "cantidad": 135
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 128
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Stracciatella -",
+    "cantidad": 128
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 124
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Diletto -",
+    "cantidad": 123
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Benedetto -",
+    "cantidad": 105
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Perro Costeño -",
+    "cantidad": 103
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Mistura -",
+    "cantidad": 99
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 97
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Pollo Champiñón -",
+    "cantidad": 97
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Mielata -",
+    "cantidad": 93
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 92
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 90
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Costeña - COMBO",
+    "cantidad": 88
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Mexicana -",
+    "cantidad": 87
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Gardel - COMBO",
+    "cantidad": 86
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Jamón Pollo -",
+    "cantidad": 75
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Suprema -",
+    "cantidad": 69
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Genovesa -",
+    "cantidad": 67
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Caramellata -",
+    "cantidad": 64
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 62
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 56
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Hawaiana Pollo Bbq -",
+    "cantidad": 53
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 52
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Choripan Argentino -",
+    "cantidad": 51
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 48
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Pollo Miel Mostaza -",
+    "cantidad": 46
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Vegetariana -",
+    "cantidad": 41
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Perro Escocés -",
+    "cantidad": 40
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Napolitana -",
+    "cantidad": 40
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Pizza Americana -",
+    "cantidad": 39
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 36
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 32
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 25
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 22
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 22
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Perro Americano -",
+    "cantidad": 17
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 16
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 14
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 14
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 13
+  },
+  {
+    "mes": "2024-12",
+    "producto": "Perro De La Casa -",
+    "cantidad": 12
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Desgranado Mixto - PAPAS",
+    "cantidad": 572
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Desgranado Pollo - PAPAS",
+    "cantidad": 480
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Desgranado Especial - PAPAS",
+    "cantidad": 446
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Jamón Queso -",
+    "cantidad": 441
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Remontada -",
+    "cantidad": 391
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Hawaiana -",
+    "cantidad": 360
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Especial -",
+    "cantidad": 340
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Toscana -",
+    "cantidad": 303
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Carnes -",
+    "cantidad": 273
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Hawaiana Plus -",
+    "cantidad": 242
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Lasaña Mixta -",
+    "cantidad": 235
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Pollo Funghi -",
+    "cantidad": 174
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Stracciatella -",
+    "cantidad": 169
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Romana -",
+    "cantidad": 147
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Lasaña Pollo -",
+    "cantidad": 143
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Brioche Angus - COMBO",
+    "cantidad": 139
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Philadelphia - COMBO",
+    "cantidad": 135
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Hamb Sweet Bacon - COMBO",
+    "cantidad": 130
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Mistura -",
+    "cantidad": 125
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Diletto -",
+    "cantidad": 118
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Benedetto -",
+    "cantidad": 112
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Pepperoni -",
+    "cantidad": 112
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Pollo Champiñón -",
+    "cantidad": 105
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Mexicana -",
+    "cantidad": 97
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Costeña - COMBO",
+    "cantidad": 93
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Lasaña Pollo Y Champiñon -",
+    "cantidad": 89
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Perro Costeño -",
+    "cantidad": 89
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Brioche Angus - HAMBURGUESA",
+    "cantidad": 86
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Jamón Pollo -",
+    "cantidad": 84
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Suprema -",
+    "cantidad": 83
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Chuzopan Mixto -",
+    "cantidad": 82
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Caramellata -",
+    "cantidad": 80
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Mielata -",
+    "cantidad": 75
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Mayotrufa - COMBO",
+    "cantidad": 74
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Gardel - COMBO",
+    "cantidad": 66
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Genovesa -",
+    "cantidad": 66
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Chuzopan Especial -",
+    "cantidad": 64
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Hawaiana Pollo Bbq -",
+    "cantidad": 61
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Gaucha - COMBO",
+    "cantidad": 60
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Choripan Argentino -",
+    "cantidad": 58
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Vegetariana -",
+    "cantidad": 56
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Napolitana -",
+    "cantidad": 52
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Pollo Miel Mostaza -",
+    "cantidad": 50
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Hamb Sweet Bacon - HAMBURGUESA",
+    "cantidad": 46
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Philadelphia - HAMBURGUESA",
+    "cantidad": 43
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Costeña - HAMBURGUESA",
+    "cantidad": 42
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Perro Escocés -",
+    "cantidad": 40
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Desgranado Pollo - BOLLO",
+    "cantidad": 38
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Chuzopan Pollo -",
+    "cantidad": 33
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Gardel - HAMBURGUESA",
+    "cantidad": 32
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Pizza Americana -",
+    "cantidad": 29
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Mayotrufa - HAMBURGUESA",
+    "cantidad": 23
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Perro De La Casa -",
+    "cantidad": 21
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Desgranado Mixto - BOLLO",
+    "cantidad": 20
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Perro Americano -",
+    "cantidad": 20
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Desgranado Especial - BOLLO",
+    "cantidad": 17
+  },
+  {
+    "mes": "2024-11",
+    "producto": "Gaucha - HAMBURGUESA",
+    "cantidad": 17
+  }
+]

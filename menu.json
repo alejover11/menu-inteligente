@@ -1,0 +1,413 @@
+[
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Hawaiana",
+    "descripcion": "",
+    "precio": 13500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Jamón y Queso",
+    "descripcion": "",
+    "precio": 13500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Vegetariana",
+    "descripcion": "",
+    "precio": 15000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Pollo y Jamón",
+    "descripcion": "",
+    "precio": 15500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Mexicana",
+    "descripcion": "",
+    "precio": 16000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Pepperoni",
+    "descripcion": "",
+    "precio": 16000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Hawaiana Pollo BBQ",
+    "descripcion": "",
+    "precio": 16500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "Tradicionales",
+    "plato": "Pizza Pollo Miel Mostaza",
+    "descripcion": "",
+    "precio": 16500
+  },
+
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Remontada",
+    "descripcion": "Pollo, maíz, tártara y papa cabello de ángel.",
+    "precio": 15500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Hawaiana Plus",
+    "descripcion": "Tocineta, jamón, piña y parmesano.",
+    "precio": 16000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Suprema",
+    "descripcion": "Pepperoni, aceitunas, champiñón, cebolla encurtida y pimentón.",
+    "precio": 16000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Toscana",
+    "descripcion": "Tocineta, jamón, maíz, champiñón y parmesano.",
+    "precio": 16000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Romana",
+    "descripcion": "Pollo, carne, tocineta, maíz y orégano.",
+    "precio": 16500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Carnes",
+    "descripcion": "Pepperoni, tocineta, jamón, cábano y salchicha.",
+    "precio": 17000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Especial",
+    "descripcion": "Pollo, salami, cábano, champiñón, cebolla caramelizada y pimentón.",
+    "precio": 17000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Pollo Funghi",
+    "descripcion": "Pollo, champiñones salteados, mayotrufa y parmesano.",
+    "precio": 17000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Benedetto",
+    "descripcion": "Pepperoni, prosciutto y cebolla caramelizada.",
+    "precio": 17500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Sweet Bacon",
+    "descripcion": "Panceta ahumada caramelizada en miel de cerveza y BBQ, pepperoni, cebolla crispy, salsa de morrones y albahaca.",
+    "precio": 17500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Diletto",
+    "descripcion": "Pepperoni, pollo, tocineta y jamón.",
+    "precio": 18000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Boloñesa Suprema",
+    "descripcion": "Carne molida en tradicional salsa boloñesa de la casa, queso stracciatella y pesto.",
+    "precio": 18000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Mistura",
+    "descripcion": "Reducción de panela, pepperoni, chorizo español, queso crema y albahaca.",
+    "precio": 19000
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Stracciatella",
+    "descripcion": "Tomates caramelizados, stracciatella, parmesano y albahaca.",
+    "precio": 19500
+  },
+  {
+    "categoria": "Pizzas",
+    "subcategoria": "De Autor",
+    "plato": "Genovesa",
+    "descripcion": "Prosciutto, salsa pesto, tomates confitados, stracciatella y parmesano.",
+    "precio": 20500
+  },
+  {
+  "categoria": "Lasañas",
+  "plato": "Lasaña Boloñesa",
+  "descripcion": "Lasaña tradicional con salsa boloñesa.",
+  "precio": 16500
+  },
+  
+  {
+    "categoria": "Bebidas",
+    "plato": "Agua",
+    "descripcion": "",
+    "precio": 4500
+  },
+  {
+    "categoria": "Bebidas",
+    "plato": "Agua Saborizada",
+    "descripcion": "",
+    "precio": 4500
+  },
+  {
+    "categoria": "Bebidas",
+    "plato": "Club Colombia",
+    "descripcion": "",
+    "precio": 9000
+  },
+  {
+    "categoria": "Bebidas",
+    "plato": "Stella Artois",
+    "descripcion": "",
+    "precio": 10000
+  },
+  {
+    "categoria": "Bebidas",
+    "plato": "Gaseosa PET 400ml",
+    "descripcion": "",
+    "precio": 5000
+  },
+  {
+    "categoria": "Bebidas",
+    "plato": "Gaseosa 1.5L",
+    "descripcion": "",
+    "precio": 9000
+  },
+  {
+    "categoria": "Bebidas",
+    "plato": "Sodas saborizadas (Corozo, Maracuyá)",
+    "descripcion": "",
+    "precio": 8500
+  },
+  
+  {
+    "categoria": "Desgranados",
+    "plato": "Desgranado Pollo",
+    "descripcion": "",
+    "precio": 22500
+  },
+  {
+    "categoria": "Desgranados",
+    "plato": "Desgranado Mixto",
+    "descripcion": "",
+    "precio": 25500
+  },
+  {
+    "categoria": "Desgranados",
+    "plato": "Desgranado Especial",
+    "descripcion": "Pollo, lomo y chorizo artesanal",
+    "precio": 27500
+  },
+  {
+    "categoria": "Chuzopan",
+    "plato": "Chuzopan Pollo",
+    "descripcion": "",
+    "precio": 18000
+  },
+  {
+    "categoria": "Chuzopan",
+    "plato": "Chuzopan Mixto",
+    "descripcion": "",
+    "precio": 19000
+  },
+  {
+    "categoria": "Chuzopan",
+    "plato": "Chuzopan Especial",
+    "descripcion": "Pollo, lomo y chorizo artesanal",
+    "precio": 21500
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Brioche Angus",
+    "descripcion": "Pan brioche, carne angus, cheddar, mozarella, pepinillos, lechuga, tomate, cebolla roja y salsa de la casa.",
+    "precio": 23500
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Sweet Bacon",
+    "descripcion": "Pan brioche, carne angus, panceta ahumada y caramelizada en miel de cerveza y BBQ, cheddar, mozarella y salsa americana.",
+    "precio": 26500
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Costeña",
+    "descripcion": "Pan brioche, carne angus, queso costeño, cheddar, mozarella, panceta de cerdo, piña y salsa de ajo.",
+    "precio": 26500
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Gardel",
+    "descripcion": "Pan brioche, carne angus, tomates dulces, salsa pesto, cheddar, mozarella, panceta de cerdo y mayo de la casa.",
+    "precio": 27000
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Gaucha",
+    "descripcion": "Pan brioche, carne angus, chorizo artesanal, chimichurri, cheddar, mozarella y salsa de la casa.",
+    "precio": 27000
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Mayotrufa",
+    "descripcion": "Pan brioche, carne angus, panceta de cerdo, cebolla krispy dulce, cheddar, mozarella y mayotrufa.",
+    "precio": 27000
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Philadelphia",
+    "descripcion": "Pan brioche, carne angus, panceta de cerdo, queso philadelphia, cheddar, cebolla en reducción de vino tinto y salsa de la casa.",
+    "precio": 27000
+  },
+  {
+    "categoria": "Hamburguesas",
+    "plato": "Doble Angus",
+    "descripcion": "Pan brioche, doble carne angus, doble cheddar, doble mozarella, pepinillos, lechuga, cebolla roja y salsa de la casa.",
+    "precio": 34000
+  },
+  
+  {
+    "categoria": "Perros Calientes",
+    "plato": "Americano",
+    "descripcion": "Pan brioche, chorizo artesanal, queso costeño, pico de gallo, chimichurri y salsa de ajo.",
+    "precio": 15000
+  },
+  {
+    "categoria": "Perros Calientes",
+    "plato": "Escocés",
+    "descripcion": "Panceta ahumada, maíz, salsa tártara y papa cabello de ángel.",
+    "precio": 15000
+  },
+  {
+    "categoria": "Perros Calientes",
+    "plato": "De la Casa",
+    "descripcion": "Ensaladilla de repollo, salsa de piña, mayo ajo y papa cabello de ángel.",
+    "precio": 15000
+  },
+  {
+    "categoria": "Perros Calientes",
+    "plato": "Costeño",
+    "descripcion": "Panceta ahumada, queso costeño, piña caramelizada, cebolla, salsa americana y papa cabello de ángel.",
+    "precio": 15000
+  },
+  {
+    "categoria": "Perros Calientes",
+    "plato": "Choripan Argentino",
+    "descripcion": "Pan brioche, chorizo artesanal, queso costeño, pico de gallo, chimichurri y salsa de ajo.",
+    "precio": 15000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Pincho Pollo",
+    "descripcion": "Acompañado de picada de bollo o papas.",
+    "precio": 18000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Maicito",
+    "descripcion": "Maíz dulce, pollo, queso costeño, tártara y papa cabello de ángel.",
+    "precio": 22000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Tacos de Camarón x3",
+    "descripcion": "",
+    "precio": 21000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Tacos Mixtos x4",
+    "descripcion": "",
+    "precio": 21000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Tacos Pulled Pork x4",
+    "descripcion": "",
+    "precio": 21000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Sandwich de Porcheta",
+    "descripcion": "Porcheta, cubos de piña, salsa pesto, mozarella y salsa americana.",
+    "precio": 20000
+  },
+  {
+    "categoria": "Variados",
+    "plato": "Pollo Crispy",
+    "descripcion": "Pollo crispy, coleslaw, cheddar, pepinillos y salsa chipotle.",
+    "precio": 19000
+  },
+  {
+    "categoria": "Menú Niños",
+    "plato": "Cajita Deditos de Queso",
+    "descripcion": "Deditos de queso, mermelada de frutos rojos y jugo. Recibe gratis un mini juguete.",
+    "precio": 16500
+  },
+  {
+    "categoria": "Menú Niños",
+    "plato": "Cajita Nuggets",
+    "descripcion": "Nuggets, papas francesas y jugo. Recibe gratis un mini juguete.",
+    "precio": 16500
+  },
+  {
+    "categoria": "Acompañantes",
+    "plato": "Papas a la Francesa",
+    "descripcion": "",
+    "precio": 6000
+  },
+  {
+    "categoria": "Acompañantes",
+    "plato": "Papas Costeñas",
+    "descripcion": "",
+    "precio": 9000
+  },
+  {
+    "categoria": "Acompañantes",
+    "plato": "Papas Trufadas",
+    "descripcion": "Salsa tártara, salsa piña y queso costeño.",
+    "precio": 10000
+  },
+  {
+    "categoria": "Acompañantes",
+    "plato": "Papas Americanas",
+    "descripcion": "Panceta, sour cream, queso cheddar, tomate fresco y cilantro.",
+    "precio": 15000
+  },
+  {
+    "categoria": "Acompañantes",
+    "plato": "Nachos",
+    "descripcion": "Chorizo, pico de gallo, mayo aguacate, mayo chipotle, sour cream y cilantro.",
+    "precio": 15000
+  }
+]
